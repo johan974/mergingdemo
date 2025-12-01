@@ -1,5 +1,7 @@
 fto file 1
 Added change on 1-12 12:15
 And a newer line at the end
+change newer stuff 13:17
+Still another change at 13:40
 Dit is een wijziging in de originale at 13:19
 Hb nog meer wijzignnig in het origineel at 13:46
